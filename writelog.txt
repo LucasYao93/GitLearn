@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 1. add first dev.
+<<<<<<< HEAD
 2. add second lucas.
 3. add three lucas.
+=======
+=======
+1. add first.
+>>>>>>> c92182504917146a780d50839b1e454a407775be
+>>>>>>> dev
